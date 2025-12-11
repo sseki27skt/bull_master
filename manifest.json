@@ -5,7 +5,11 @@
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#0175C2",
+<<<<<<< HEAD
     "description": "Web Application for Recording and Analyzing Center Count-Up Data",
+=======
+    "description": "A new Flutter project.",
+>>>>>>> origin/master
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
